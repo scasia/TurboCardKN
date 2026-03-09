@@ -1,4 +1,4 @@
-# TurboCardNS
+# TurboCardKN
 Nieoficjalny klient usługi OneCard autorstwa firmy qb sp. z.o.o. 
 Aktualnie działa tylko z aplikacją MojaKN. Nie mam jak sprawdzić innych.
 
@@ -9,8 +9,8 @@ W przyszłości planowany jest pełny rewrite projektu, napisany w 100% ludzkimi
 
 # Screenshoty
 
- <img src="https://github.com/scasia/TurboCardNS/blob/main/readmefiles/Screenshot1.PNG?raw=true" width="250">  <img src="https://github.com/scasia/TurboCardNS/blob/main/readmefiles/Screenshot2.PNG?raw=true" width="250">  <img src="https://github.com/scasia/TurboCardNS/blob/main/readmefiles/Screenshot3.PNG?raw=true" width="250"> 
- <img src="https://github.com/scasia/TurboCardNS/blob/main/readmefiles/Screenshot4.PNG?raw=true" width="250">  <img src="https://github.com/scasia/TurboCardNS/blob/main/readmefiles/Screenshot6.PNG?raw=true" width="250"> 
+ <img src="https://github.com/scasia/TurboCardKN/blob/main/readmefiles/Screenshot1.PNG?raw=true" width="250">  <img src="https://github.com/scasia/TurboCardKN/blob/main/readmefiles/Screenshot2.PNG?raw=true" width="250">  <img src="https://github.com/scasia/TurboCardKN/blob/main/readmefiles/Screenshot3.PNG?raw=true" width="250"> 
+ <img src="https://github.com/scasia/TurboCardKN/blob/main/readmefiles/Screenshot4.PNG?raw=true" width="250">  <img src="https://github.com/scasia/TurboCardKN/blob/main/readmefiles/Screenshot6.PNG?raw=true" width="250"> 
 
 # Co działa?
 
